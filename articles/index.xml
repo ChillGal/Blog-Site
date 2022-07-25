@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Jen&#39;s Blog</title>
+    <link>https://blog.jenspot.com/articles.html</link>
+    <description>Recent content in Articles on Jen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Jul 2022 11:33:50 +0100</lastBuildDate><atom:link href="https://blog.jenspot.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 2</title>
+      <link>https://blog.jenspot.com/articles/article-2.html</link>
+      <pubDate>Fri, 22 Jul 2022 11:33:50 +0100</pubDate>
+      
+      <guid>https://blog.jenspot.com/articles/article-2.html</guid>
+      <description>Article 2
+1 2 3 4 </description>
+    </item>
+    
+    <item>
+      <title>Article 1</title>
+      <link>https://blog.jenspot.com/articles/article-1.html</link>
+      <pubDate>Fri, 22 Jul 2022 11:33:48 +0100</pubDate>
+      
+      <guid>https://blog.jenspot.com/articles/article-1.html</guid>
+      <description>Article 1
+Test article</description>
+    </item>
+    
+  </channel>
+</rss>
