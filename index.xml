@@ -5,44 +5,26 @@
     <link>https://blog.jenspot.com/</link>
     <description>Recent content on Jen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Jul 2022 11:33:50 +0100</lastBuildDate><atom:link href="https://blog.jenspot.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 22 Jul 2022 11:33:48 +0100</lastBuildDate><atom:link href="https://blog.jenspot.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article 2</title>
-      <link>https://blog.jenspot.com/articles/article-2.html</link>
-      <pubDate>Fri, 22 Jul 2022 11:33:50 +0100</pubDate>
-      
-      <guid>https://blog.jenspot.com/articles/article-2.html</guid>
-      <description>Article 2
-1 2 3 4 </description>
-    </item>
-    
-    <item>
-      <title>Article 1</title>
-      <link>https://blog.jenspot.com/articles/article-1.html</link>
+      <title>My First Article!</title>
+      <link>https://blog.jenspot.com/articles/article-1/</link>
       <pubDate>Fri, 22 Jul 2022 11:33:48 +0100</pubDate>
       
-      <guid>https://blog.jenspot.com/articles/article-1.html</guid>
-      <description>Article 1
-Test article</description>
+      <guid>https://blog.jenspot.com/articles/article-1/</guid>
+      <description>This post marks the beginning of my blog! I will post things I learn from my hobbies and any interesting tidbits as I progress through the field of Computer Science!!
+You can find my links at https://links.jenspot.com</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://blog.jenspot.com/about.html</link>
+      <link>https://blog.jenspot.com/about/</link>
       <pubDate>Fri, 22 Jul 2022 11:29:47 +0100</pubDate>
       
-      <guid>https://blog.jenspot.com/about.html</guid>
+      <guid>https://blog.jenspot.com/about/</guid>
       <description>I am a 2nd year computer science student at the University of Leeds. I am currently working on:
 Adding more content to my blog Adding features to my implementation of Conway&amp;rsquo;s Game of Life Creating my site index page for https://jenspot.com Building and deploying an environmental sensor system based on an arduino Tidying my code for my custom macro keyboard </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://blog.jenspot.com/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.jenspot.com/archives/</guid>
-      <description>archives</description>
     </item>
     
   </channel>
